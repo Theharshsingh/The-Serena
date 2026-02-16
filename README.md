@@ -1,2 +1,10 @@
 # The-Serena
-Welcome to the official GitHub repository for The Serena.This project encapsulates all essential elements for launching a new business, including branding, product mockups, a fully functional website, and financial pitch materials.A modern, distinctive logo and brand guidelines that represent the startup's vision.
+The Serena is a comprehensive startup development project built during completing the IBM Certification in Prompt Engineering. This project demonstrates the practical application of AI-driven prompt engineering combined with full-scale startup execution — from concept to deployment. 
+
+Technologies & Tools
+
+HTML, CSS, JavaScript, IBM WATSONX.
+
+Purpose of the Project
+Apply Prompt Engineering skills in a real startup scenario
+Demonstrate end-to-end startup readiness
